@@ -27,3 +27,15 @@ Technology Used:
 Python
 
 Tkinter
+
+Tools Used
+
+Python 3.12
+
+Visual Studio Code
+
+GitHub
+
+Author
+
+Kandula Akhila
