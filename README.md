@@ -1,5 +1,7 @@
 CODSOFT_TASK1_TODO
+
 CodSoft Python Internship
+
 This repository contains the Python project completed during my CodSoft Python Programming Internship.
 
 Project
